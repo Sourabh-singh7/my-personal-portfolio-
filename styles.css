@@ -494,3 +494,9 @@ img {
     width: 450px;
   }
 }
+#msg{
+  color: #555;
+  margin-top: 5px;
+  display: block;
+
+}
